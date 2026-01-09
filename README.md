@@ -16,6 +16,7 @@ You can use Visual Studio to compile the reflective dll from source.
 
 ## Acknowledgments
 [Author - zipper](https://github.com/outflanknl/Zipper)
+
 [zlib](https://zlib.net/) Compression Library: written by Mark Adler and Jean-loup Gailly.
 
 [Gilles Vollant](https://www.winimage.com/zLibDll/minizip.html): developer of Minizip, which this tool is based on.
